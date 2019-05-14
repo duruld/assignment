@@ -1,0 +1,22 @@
+.row {
+  height: 100vh;
+}
+#nav {
+  font-size: 50px;
+}
+li {
+  list-style: none;
+}
+#nav .router-link {
+  text-decoration: none;
+  color: white;
+}
+#nav .router-link:hover {
+  color: lightgrey;
+}
+.col-lg-9 > * {
+  margin-top: 100px;
+}
+.col-lg-9 li {
+  font-size: 30px;
+}
